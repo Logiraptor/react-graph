@@ -12,7 +12,7 @@ First, add this code as a bookmarklet
 javascript:(function(elem){elem.src='https://unpkg.com/graph-react-bookmarklet/dist/main.js'; document.documentElement.appendChild(elem);})(document.createElement('script'))
 ```
 
-![Bookmark Settings](./Add Bookmark.png)
+![Bookmark Settings](./AddBookmark.png)
 
 Then view a React 16 website and click the bookmark.
 
