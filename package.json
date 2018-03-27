@@ -2,9 +2,14 @@
   "version": "1.0.0",
   "author": "Patrick Oyarzun",
   "license": "MIT",
-  "files": ["README.md", "dist/main.js"],
+  "files": [
+    "README.md",
+    "dist/main.js"
+  ],
+  "name": "graph-react-bookmarklet",
   "dependencies": {
-    "lodash.get": "^4.4.2"
+    "lodash.get": "^4.4.2",
+    "npm": "^5.8.0"
   },
   "devDependencies": {
     "@types/lodash.get": "^4.4.3",
