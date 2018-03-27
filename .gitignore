@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.cache/
+dist/
+main.js
+viz.js
+yarn-error.log

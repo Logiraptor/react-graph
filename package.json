@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "author": "Patrick Oyarzun",
+  "license": "MIT",
+  "files": ["README.md", "dist/main.js"],
+  "dependencies": {
+    "lodash.get": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/lodash.get": "^4.4.3",
+    "parcel-bundler": "^1.6.2",
+    "typescript": "^2.7.2"
+  },
+  "scripts": {
+    "dev": "parcel main.ts",
+    "build": "parcel build main.ts"
+  }
+}
